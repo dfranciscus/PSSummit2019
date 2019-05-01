@@ -1,6 +1,8 @@
 # Completely Automate Managing Windows Software...Forever
 Slides and Demos from my PowerShell Summit 2019 presentation on Chocolatey
 
+Chocolatey-tools module - (https://github.com/dfranciscus/Chocolatey-tools)
+
 ## Basic Chocolatey commands:
 ```
 choco list googlechrome -lo
