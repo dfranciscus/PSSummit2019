@@ -1,4 +1,4 @@
-# PSSummit2019
+# Completely Automate Managing Windows Software...Forever
 Slides and Demos from my PowerShell Summit 2019 presentation on Chocolatey
 
 ## Basic Chocolatey commands:
